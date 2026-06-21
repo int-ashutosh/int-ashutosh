@@ -1,6 +1,4 @@
-# Ashutosh
-
-**ML Engineer** · LLM Fine-tuning · NLP · Anomaly Detection
+![banner](./banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/intashutosh)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/intashutosh)
