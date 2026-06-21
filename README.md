@@ -6,9 +6,9 @@
 
 ![banner](./banner.svg)
 ---
+## Entry Point
 
-ML practitioner, first-principles developer. I started with Python and then dug into systems and low-level operations, all while shipping practical solutions using NLP toolkits and classical ML algorithms. I’m fascinated by computers’ cognitive abilities, the logic that enables them, and the mathematics beneath it. I’m curious about the broad potential of weight matrices to transform (pun intended) the nature of programs across systems — from OS and networks to rendering pipelines such as shaders and textures.
-
+ML practitioner, first-principles developer. I started with Python and then dug into systems and low-level operations, all while shipping practical solutions using NLP toolkits and classical ML algorithms. I’m fascinated by computers' cognitive abilities, the logic that enables them, and the mathematics beneath that. I believe weight matrices have potential to transform (pun intended) the nature of programs across systems — from OS and networks to rendering pipelines such as shaders and textures.
 ---
 
 ## Skills & Tools
