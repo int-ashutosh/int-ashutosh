@@ -8,7 +8,7 @@
 
 ---
 
-Self-taught ML practitioner from Naraini, UP. Background in mechanical engineering and systems programming (C, Linux). Currently focused on LLM fine-tuning, NLP pipelines, and unsupervised anomaly detection. Building toward applied ML and NLP roles.
+Self-taught ML practitioner. Background in mechanical engineering and systems programming (C, Linux). Currently focused on LLM fine-tuning, NLP pipelines, and unsupervised anomaly detection. Building toward applied ML and NLP roles.
 
 ---
 
