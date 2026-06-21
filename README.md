@@ -1,12 +1,13 @@
-![banner](./banner.svg)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/intashutosh)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/intashutosh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/int-ashutosh)
 
+![banner](./banner.svg)
 ---
 
-Self-taught ML practitioner. Background in mechanical engineering and systems programming (C, Linux). Currently focused on LLM fine-tuning, NLP pipelines, and unsupervised anomaly detection. Building toward applied ML and NLP roles.
+ML practitioner, first-principles developer. I started with Python and then dug into systems and low-level operations, all while shipping practical solutions using NLP toolkits and classical ML algorithms. I’m fascinated by computers’ cognitive abilities, the logic that enables them, and the mathematics beneath it. I’m curious about the broad potential of weight matrices to transform (pun intended) the nature of programs across systems — from OS and networks to rendering pipelines such as shaders and textures.
 
 ---
 
